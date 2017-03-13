@@ -2270,8 +2270,10 @@ CEO:nr:50
 何省:RW.RWLocationSingle:270
 到哪:RW.RWLocationSingle:270
 哪儿:RW.RWLocationSingle:270
+哪里:RW.RWLocationSingle:270
 何处:RW.RWLocationSingle:270
 在哪儿:RW.RWLocationSingle:270
+在哪里:RW.RWLocationSingle:270
 哪一座:RW.RWLocationSingle:270
 哪一条:RW.RWLocationSingle:270
 哪一块:RW.RWLocationSingle:270
